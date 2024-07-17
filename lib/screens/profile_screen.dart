@@ -32,7 +32,7 @@ class ProfileScreen extends StatelessWidget {
                 SizedBox(height: 20.0),
                 CircleAvatar(
                   radius: 50.0,
-                  backgroundImage: AssetImage('assets/images/penyu.jpg'),
+                  backgroundImage: AssetImage('assets/images/M. Maulana Gibran.JPG'),
                 ),
                 SizedBox(height: 20.0),
                 Card(
